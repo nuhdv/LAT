@@ -1,4 +1,4 @@
-# FLAD
+# LAT
 SMC23 - Anomaly Detection
 
 This is the source code of the paper  **"Local-Adaptive Transformer for Multivariate Time Series Anomaly Detection and Diagnosis"** accepted by SMC23 (to appear).
